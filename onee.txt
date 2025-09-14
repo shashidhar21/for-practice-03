@@ -1,1 +1,3 @@
-this first text document
+this first text line
+this is second line 
+this in third line
